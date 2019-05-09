@@ -1,0 +1,16 @@
+{
+  "name": "modular-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Modular Webpack Plugin",
+  "author": "Han Feng <han_feng@foxmail.com>",
+  "license": "MIT",
+  "main": "modular-webpack-plugin.js",
+  "files": [
+    "modular-webpack-plugin.js",
+    "modular-loader.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/han-feng/modular-webpack-plugin.git"
+  }
+}
